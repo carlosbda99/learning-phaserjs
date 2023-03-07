@@ -1,0 +1,22 @@
+{
+  "name": "learning-phaserjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosbda99/learning-phaserjs.git"
+  },
+  "author": "Carlos Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosbda99/learning-phaserjs/issues"
+  },
+  "homepage": "https://github.com/carlosbda99/learning-phaserjs#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
